@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaaj1903&label=Profile%20views&color=0e75b6&style=flat" alt="raaaj1903" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://funny-sfogliatella-09c31b.netlify.app/](https://funny-sfogliatella-09c31b.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
